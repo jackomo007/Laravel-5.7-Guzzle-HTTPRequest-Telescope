@@ -8,14 +8,14 @@
 <img src="https://avatars3.githubusercontent.com/u/638632?s=400&amp;v=4" width="100" height="100">
 </p>
 <p align="center">
-Guzzle 
+Guzzle V-6
 </p>
 <br />
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsFe2aWhdJf09dd6KlNiX7hpBIeE4g9DBXj0SPEsRWk4UqNnQa" width="100" height="100">
 </p>
 <p align="center">
-Laravel Telescope
+Laravel Telescope V-1
 </p>
 
 ## About the project
